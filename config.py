@@ -1,0 +1,1 @@
+VIDEO_FOLDER = r"C:\PATH\TO\YOUR\VIDEO_FOLDER"  # Update this path to your video folder
