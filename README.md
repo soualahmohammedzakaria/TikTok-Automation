@@ -121,4 +121,4 @@ This project is for educational purposes. Ensure compliance with TikTok's Terms 
 
 ## Disclaimer
 
-This tool is for educational and personal use only. Users are responsible for complying with TikTok's Terms of Service and community guidelines. The authors are not responsible for any misuse of this tool.
+This tool is for educational use only. Users are responsible for complying with TikTok's Terms of Service and community guidelines. The authors are not responsible for any misuse of this tool.
